@@ -1,0 +1,279 @@
+20/05/2013 12:36:08 -- ******   Ajout des tracets    *********
+20/05/2013 12:36:08 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 09-52-58 (4)
+20/05/2013 12:36:08 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 08-47-56 (13)
+20/05/2013 12:36:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 47,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:08 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 08-49-09 (14)
+20/05/2013 12:36:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:08 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 08-57-31 (15)
+20/05/2013 12:36:09 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 10-11-19 (5)
+20/05/2013 12:36:09 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 41,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:09 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 11-11-24 (1)
+20/05/2013 12:36:09 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:09 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 11-12-25 (2)
+20/05/2013 12:36:09 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 35 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:09 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 11-19-51 (3)
+20/05/2013 12:36:09 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:09 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 11-22-50 (4)
+20/05/2013 12:36:10 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 09-20-55 (16)
+20/05/2013 12:36:10 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 59 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:10 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 09-42-29 (17)
+20/05/2013 12:36:11 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 11-52-40 (5)
+20/05/2013 12:36:11 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 126 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:11 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 11-55-06 (6)
+20/05/2013 12:36:11 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 58 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:11 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 12-09-40 (7)
+20/05/2013 12:36:12 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 10-08-04 (18)
+20/05/2013 12:36:12 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:12 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 10-16-24 (19)
+20/05/2013 12:36:13 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 12-31-42 (8)
+20/05/2013 12:36:13 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:13 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 12-32-45 (9)
+20/05/2013 12:36:13 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:13 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 12-42-37 (10)
+20/05/2013 12:36:13 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 10-41-11 (20)
+20/05/2013 12:36:13 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 45 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:13 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 10-48-33 (21)
+20/05/2013 12:36:14 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 13-02-17 (11)
+20/05/2013 12:36:14 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 51,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:14 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 13-12-27 (12)
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 11-11-58 (22)
+20/05/2013 12:36:15 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 38 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 11-29-02 (23)
+20/05/2013 12:36:15 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 58,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 11-52-45 (24)
+20/05/2013 12:36:15 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 179,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 11-55-53 (25)
+20/05/2013 12:36:15 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 90,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 12-40-54 (26)
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 13-30-09 (13)
+20/05/2013 12:36:15 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 36,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 13-33-49 (14)
+20/05/2013 12:36:15 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 13-34-42 (15)
+20/05/2013 12:36:15 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 13-42-28 (16)
+20/05/2013 12:36:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 12-57-00 (27)
+20/05/2013 12:36:16 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 14-05-11 (17)
+20/05/2013 12:36:16 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 83 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:16 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 14-08-57 (18)
+20/05/2013 12:36:16 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:16 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 14-15-35 (19)
+20/05/2013 12:36:17 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 13-21-19 (28)
+20/05/2013 12:36:17 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 56 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:17 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 13-22-21 (29)
+20/05/2013 12:36:17 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:17 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 13-32-10 (30)
+20/05/2013 12:36:17 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-26 14-24-42 (20)
+20/05/2013 12:36:17 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 19 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:17 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 06-07-18 (1)
+20/05/2013 12:36:17 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 49,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:17 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 06-30-59 (2)
+20/05/2013 12:36:18 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 14-04-59 (31)
+20/05/2013 12:36:18 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 276 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:18 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 14-23-29 (32)
+20/05/2013 12:36:19 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 14-29-39 (33)
+20/05/2013 12:36:19 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:19 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 14-35-51 (34)
+20/05/2013 12:36:19 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-00-50 (3)
+20/05/2013 12:36:19 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 179 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:19 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-04-10 (4)
+20/05/2013 12:36:19 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 177 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:19 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-07-08 (5)
+20/05/2013 12:36:19 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 55,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:19 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-17-07 (6)
+20/05/2013 12:36:19 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 55,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:19 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-22-21 (7)
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-34-20 (8)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 110,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-37-45 (9)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 68,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-41-50 (10)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-43-25 (11)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-48-05 (12)
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 07-58-33 (13)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 149 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-01-15 (14)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 208 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-04-58 (15)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-05-31 (16)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-13-56 (17)
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 14-59-18 (35)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 15-00-15 (36)
+20/05/2013 12:36:20 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 50,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:20 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 15-08-00 (37)
+20/05/2013 12:36:21 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-25-40 (18)
+20/05/2013 12:36:21 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 127,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:21 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-29-11 (19)
+20/05/2013 12:36:21 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 38,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:21 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-32-47 (20)
+20/05/2013 12:36:21 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 32,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:21 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-34-17 (21)
+20/05/2013 12:36:21 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 41 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:21 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-44-04 (22)
+20/05/2013 12:36:22 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-50-35 (23)
+20/05/2013 12:36:22 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 164 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:22 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-54-09 (24)
+20/05/2013 12:36:22 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 138,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:22 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 08-56-47 (25)
+20/05/2013 12:36:22 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 230,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:22 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 09-04-15 (26)
+20/05/2013 12:36:22 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:22 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 09-10-41 (27)
+20/05/2013 12:36:22 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 15-41-55 (38)
+20/05/2013 12:36:22 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 235,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:22 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 15-58-39 (39)
+20/05/2013 12:36:22 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 09-22-00 (28)
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 16-11-08 (40)
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 09-30-17 (29)
+20/05/2013 12:36:23 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 166,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 09-33-31 (30)
+20/05/2013 12:36:23 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 09-34-07 (31)
+20/05/2013 12:36:23 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 155,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 09-37-15 (32)
+20/05/2013 12:36:23 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 40,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 10-43-03 (33)
+20/05/2013 12:36:23 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 10-46-28 (34)
+20/05/2013 12:36:23 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 58,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 10-55-24 (35)
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 16-24-23 (41)
+20/05/2013 12:36:23 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 07-36-31 (1)
+20/05/2013 12:36:23 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:23 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 07-46-13 (2)
+20/05/2013 12:36:25 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 08-16-50 (3)
+20/05/2013 12:36:25 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 11-25-14 (36)
+20/05/2013 12:36:25 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 191,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:25 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 11-31-24 (37)
+20/05/2013 12:36:25 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 50,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:25 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 11-40-53 (38)
+20/05/2013 12:36:25 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 11-53-28 (39)
+20/05/2013 12:36:25 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:25 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 11-55-11 (40)
+20/05/2013 12:36:25 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:25 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 11-56-15 (41)
+20/05/2013 12:36:25 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:25 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 12-01-35 (42)
+20/05/2013 12:36:26 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 08-34-42 (4)
+20/05/2013 12:36:26 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 120,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:26 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 08-42-07 (5)
+20/05/2013 12:36:26 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 12-11-21 (43)
+20/05/2013 12:36:26 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 47,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:26 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 12-22-21 (44)
+20/05/2013 12:36:28 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 12-56-59 (45)
+20/05/2013 12:36:28 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 56 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:28 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 13-02-29 (46)
+20/05/2013 12:36:28 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 41,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:28 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 13-16-52 (47)
+20/05/2013 12:36:28 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:28 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 13-18-42 (48)
+20/05/2013 12:36:28 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 09-11-57 (6)
+20/05/2013 12:36:29 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 13-43-43 (49)
+20/05/2013 12:36:29 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:29 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 13-44-31 (50)
+20/05/2013 12:36:29 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:29 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-27 13-50-57 (51)
+20/05/2013 12:36:29 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 09-41-47 (7)
+20/05/2013 12:36:31 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 06-13-48 (1)
+20/05/2013 12:36:31 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:31 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 06-21-04 (2)
+20/05/2013 12:36:31 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:31 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 06-26-47 (3)
+20/05/2013 12:36:32 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 10-11-37 (8)
+20/05/2013 12:36:33 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 06-56-37 (4)
+20/05/2013 12:36:33 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 07-09-03 (5)
+20/05/2013 12:36:33 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:33 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 07-09-47 (6)
+20/05/2013 12:36:33 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:33 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 07-13-22 (7)
+20/05/2013 12:36:33 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 10-41-28 (9)
+20/05/2013 12:36:35 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 07-40-35 (8)
+20/05/2013 12:36:35 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:35 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 07-41-50 (9)
+20/05/2013 12:36:35 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:35 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 07-48-41 (10)
+20/05/2013 12:36:35 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 11-11-18 (10)
+20/05/2013 12:36:35 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 168 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:35 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 11-23-46 (11)
+20/05/2013 12:36:36 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-29 11-36-43 (12)
+20/05/2013 12:36:36 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 1,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:36 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 06-29-53 (1)
+20/05/2013 12:36:36 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 06-40-05 (2)
+20/05/2013 12:36:37 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 08-16-38 (11)
+20/05/2013 12:36:37 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 55,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:37 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-07-28 08-25-37 (12)
+20/05/2013 12:36:38 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 07-09-55 (3)
+20/05/2013 12:36:38 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 09-00-29 (7)
+20/05/2013 12:36:38 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 09-09-06 (8)
+20/05/2013 12:36:38 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 283,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:38 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 09-15-06 (9)
+20/05/2013 12:36:40 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 07-39-45 (4)
+20/05/2013 12:36:40 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 09-40-55 (10)
+20/05/2013 12:36:40 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 38 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:40 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 10-43-44 (11)
+20/05/2013 12:36:42 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 08-09-35 (5)
+20/05/2013 12:36:42 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 11-13-34 (12)
+20/05/2013 12:36:42 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 107 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:42 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 11-37-35 (13)
+20/05/2013 12:36:42 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 08-29-33 (6)
+20/05/2013 12:36:43 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 11-57-18 (14)
+20/05/2013 12:36:43 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 164,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:43 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 12-00-04 (15)
+20/05/2013 12:36:43 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:43 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 12-00-46 (16)
+20/05/2013 12:36:43 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 180,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:43 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 12-04-16 (17)
+20/05/2013 12:36:43 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 72,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:43 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 12-35-29 (18)
+20/05/2013 12:36:43 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 14-23-48 (23)
+20/05/2013 12:36:44 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 12-52-53 (19)
+20/05/2013 12:36:44 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:44 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 13-29-43 (20)
+20/05/2013 12:36:45 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 13-47-57 (21)
+20/05/2013 12:36:45 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 236,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:45 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 14-05-22 (22)
+20/05/2013 12:36:45 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:45 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 08-33-27 (14)
+20/05/2013 12:36:45 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 43,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:45 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 10-25-06 (15)
+20/05/2013 12:36:45 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 14-53-38 (24)
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-01 14-59-14 (25)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-17-47 (1)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-18-25 (2)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-29-58 (3)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 46,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-30-51 (4)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-33-20 (5)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 36 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-34-50 (6)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 40 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-39-56 (7)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 42 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-40-46 (8)
+20/05/2013 12:36:46 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:46 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 06-53-50 (9)
+20/05/2013 12:36:47 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 10-54-17 (16)
+20/05/2013 12:36:47 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 37 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:47 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 10-58-19 (17)
+20/05/2013 12:36:47 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:47 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 11-09-19 (18)
+20/05/2013 12:36:47 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 32 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:47 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 11-12-48 (19)
+20/05/2013 12:36:47 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:48 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 07-23-41 (10)
+20/05/2013 12:36:49 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 07-45-43 (11)
+20/05/2013 12:36:49 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 170 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:49 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 07-49-16 (12)
+20/05/2013 12:36:49 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 175 sec. Inferieur au temps mini, pas de traitement
+20/05/2013 12:36:49 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\LGV-RR\2011-08-02 08-12-15 (13)
+20/05/2013 12:36:50 -- ******   Cloture du fichier    *********

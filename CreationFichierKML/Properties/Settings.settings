@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CreationFichierKML.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="formatDecimal" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="precision" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="nomLongitude" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Longitude</Value>
+    </Setting>
+    <Setting Name="nomLatitude" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Latitude</Value>
+    </Setting>
+    <Setting Name="repertoire" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\presta</Value>
+    </Setting>
+    <Setting Name="nomKML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fichierKML</Value>
+    </Setting>
+    <Setting Name="repKML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\presta</Value>
+    </Setting>
+    <Setting Name="tempsMin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="DepArr" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

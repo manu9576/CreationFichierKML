@@ -1,0 +1,9 @@
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.exe.config
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.Form1.resources
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.pdb

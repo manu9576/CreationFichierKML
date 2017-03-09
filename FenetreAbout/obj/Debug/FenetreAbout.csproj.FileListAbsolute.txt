@@ -1,0 +1,36 @@
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\FenetreAbout.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.AboutBox.resources
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\FenetreAbout.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\bin\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\bin\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\FenetreAbout\bin\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\FenetreAbout\bin\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\FenetreAbout\obj\Debug\FenetreAbout.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\FenetreAbout\obj\Debug\FenetreAbout.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\FenetreAbout\obj\Debug\FenetreAbout.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\FenetreAbout\obj\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\FenetreAbout\obj\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\FenetreAbout\bin\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\FenetreAbout\bin\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\FenetreAbout\obj\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\FenetreAbout\obj\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\FenetreAbout\bin\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\FenetreAbout\bin\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.Properties.Resources.resources
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\AboutBoxDemo.pdb
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\FenetreAbout\bin\Debug\AboutBoxDemo.dll
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\FenetreAbout\bin\Debug\AboutBoxDemo.pdb
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.csprojResolveAssemblyReference.cache
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.Properties.Resources.resources
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\FenetreAbout.csproj.GenerateResource.Cache
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\AboutBoxDemo.dll
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\FenetreAbout\obj\Debug\AboutBoxDemo.pdb

@@ -1,0 +1,13 @@
+17/05/2013 21:00:53 -- ******   Ajout des tracets    *********
+17/05/2013 21:00:53 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 06-56-00 (1)
+17/05/2013 21:00:53 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 09-14-55 (6)
+17/05/2013 21:00:55 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 07-25-10 (2)
+17/05/2013 21:00:55 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 10-13-08 (7)
+17/05/2013 21:00:56 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 07-46-22 (3)
+17/05/2013 21:00:57 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 10-42-58 (8)
+17/05/2013 21:00:58 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 08-16-12 (4)
+17/05/2013 21:00:58 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 11-04-51 (9)
+17/05/2013 21:00:59 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 11-14-12 (10)
+17/05/2013 21:00:59 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 11-18-52 (11)
+17/05/2013 21:01:00 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 08-45-05 (5)
+17/05/2013 21:01:02 -- ******   Cloture du fichier    *********

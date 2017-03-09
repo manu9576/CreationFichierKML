@@ -1,0 +1,23 @@
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\bin\x86\Release\Metier.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\bin\x86\Release\Metier.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\x86\Release\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\x86\Release\KML.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\x86\Release\CreationFichierKML.LectureNomRaw.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\x86\Release\KML.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\x86\Release\Metier.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\x86\Release\Metier.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4\Metier\bin\x86\Release\KML.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4\Metier\bin\x86\Release\KML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4\Metier\obj\x86\Release\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4\Metier\obj\x86\Release\KML.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4\Metier\obj\x86\Release\KML.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4\Metier\obj\x86\Release\KML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4\Metier\bin\x86\Release\KML.XML
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\Metier\bin\x86\Release\KML.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\Metier\bin\x86\Release\KML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\Metier\obj\x86\Release\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\Metier\obj\x86\Release\KML.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\Metier\obj\x86\Release\KML.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\Metier\obj\x86\Release\KML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\Release\KML.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\Release\KML.pdb

@@ -1,0 +1,274 @@
+17/08/2014 11:31:07 -- ******   Creation du fichier MKL    *********
+17/08/2014 11:31:07 -- Listes des paramétres : 
+17/08/2014 11:31:07 -- nom de la voie longitude : V011_D11.raw
+17/08/2014 11:31:07 -- nom de la voie latitude : V008_D11.raw
+17/08/2014 11:31:07 -- type de données : decimale
+17/08/2014 11:31:07 -- precision du trace : 10 m
+17/08/2014 11:31:07 -- couleur du tracet : bleu
+17/08/2014 11:31:07 -- Sans les emplacements Depart - Arrivé.
+17/08/2014 11:31:07 -- temps minimum d'une acquisition : 1 min
+17/08/2014 11:31:07 -- CreationFichierKml()
+17/08/2014 11:31:07 -- AjoutStyle()
+17/08/2014 11:31:07 -- 
+17/08/2014 11:31:07 -- Modification : 
+17/08/2014 11:31:07 -- temps minimum d'une acquisition : 2 min
+17/08/2014 11:31:07 -- 
+17/08/2014 11:31:07 -- Modification : 
+17/08/2014 11:31:07 -- Sans les emplacements Depart - Arrivé.
+17/08/2014 11:31:07 -- 
+17/08/2014 11:31:07 -- ******   Ajout des tracets    *********
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 09-52-58 (4)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 08-47-56 (13)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 47,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 08-49-09 (14)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 08-57-31 (15)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 10-11-19 (5)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 41,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 11-11-24 (1)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 11-12-25 (2)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 35 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 11-19-51 (3)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 09-20-55 (16)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 11-22-50 (4)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 59 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 09-42-29 (17)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 10-08-04 (18)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 10-16-24 (19)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 11-52-40 (5)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 11-55-06 (6)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 58 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 12-09-40 (7)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 10-41-11 (20)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 12-31-42 (8)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 45 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 10-48-33 (21)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 12-32-45 (9)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 12-42-37 (10)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 11-11-58 (22)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 13-02-17 (11)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 38 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 11-29-02 (23)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 51,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 13-12-27 (12)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 58,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 11-52-45 (24)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 11-55-53 (25)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 90,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 12-40-54 (26)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 12-57-00 (27)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 13-30-09 (13)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 36,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 13-33-49 (14)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 13-34-42 (15)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 13-42-28 (16)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 13-21-19 (28)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 56 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 13-22-21 (29)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 13-32-10 (30)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 14-05-11 (17)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 83 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 14-08-57 (18)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 14-15-35 (19)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-26 14-24-42 (20)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 19 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 06-07-18 (1)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 49,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 06-30-59 (2)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 14-04-59 (31)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 14-23-29 (32)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 14-29-39 (33)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 14-35-51 (34)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-00-50 (3)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-04-10 (4)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 14-59-18 (35)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-07-08 (5)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 15-00-15 (36)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 50,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 55,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 15-08-00 (37)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-17-07 (6)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 55,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-22-21 (7)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-34-20 (8)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 110,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-37-45 (9)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 68,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-41-50 (10)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-43-25 (11)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-48-05 (12)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 15-41-55 (38)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 15-58-39 (39)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 07-58-33 (13)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 16-11-08 (40)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-01-15 (14)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 16-24-23 (41)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-04-58 (15)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 07-36-31 (1)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-05-31 (16)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 07-46-13 (2)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-13-56 (17)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-25-40 (18)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-29-11 (19)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 38,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-32-47 (20)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 32,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-34-17 (21)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 41 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-44-04 (22)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 08-16-50 (3)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-50-35 (23)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-54-09 (24)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 08-34-42 (4)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 08-56-47 (25)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 08-42-07 (5)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 09-04-15 (26)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 09-10-41 (27)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 09-22-00 (28)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 09-30-17 (29)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 09-11-57 (6)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 09-33-31 (30)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 09-34-07 (31)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 09-37-15 (32)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 40,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 10-43-03 (33)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 10-46-28 (34)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 58,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 10-55-24 (35)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 09-41-47 (7)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 11-25-14 (36)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 11-31-24 (37)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 50,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 11-40-53 (38)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 10-11-37 (8)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 11-53-28 (39)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 11-55-11 (40)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 11-56-15 (41)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 12-01-35 (42)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 12-11-21 (43)
+17/08/2014 11:31:07 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 47,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 12-22-21 (44)
+17/08/2014 11:31:07 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 10-41-28 (9)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 12-56-59 (45)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 56 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 13-02-29 (46)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 41,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 13-16-52 (47)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 13-18-42 (48)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 11-11-18 (10)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 11-23-46 (11)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-29 11-36-43 (12)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 1,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 06-29-53 (1)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 06-40-05 (2)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 13-43-43 (49)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 13-44-31 (50)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-27 13-50-57 (51)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 07-09-55 (3)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 06-13-48 (1)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 06-21-04 (2)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 06-26-47 (3)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 07-39-45 (4)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 06-56-37 (4)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 07-09-03 (5)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 08-09-35 (5)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 07-09-47 (6)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 07-13-22 (7)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 08-29-33 (6)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 09-00-29 (7)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 07-40-35 (8)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 09-09-06 (8)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 31 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 07-41-50 (9)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 07-48-41 (10)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 09-15-06 (9)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 09-40-55 (10)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 08-16-38 (11)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 38 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 10-43-44 (11)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 55,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-07-28 08-25-37 (12)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 14-23-48 (23)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 11-13-34 (12)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 107 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 11-37-35 (13)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 11-57-18 (14)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 14-53-38 (24)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 12-00-04 (15)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 12-00-46 (16)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 14-59-14 (25)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 12-04-16 (17)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-17-47 (1)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 72,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 12-35-29 (18)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-18-25 (2)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-29-58 (3)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 46,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-30-51 (4)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-33-20 (5)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 36 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-34-50 (6)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 40 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-39-56 (7)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 42 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-40-46 (8)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 06-53-50 (9)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 12-52-53 (19)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 13-29-43 (20)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 13-47-57 (21)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-01 14-05-22 (22)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 08-33-27 (14)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 43,5 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 10-25-06 (15)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 07-23-41 (10)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 07-45-43 (11)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 10-54-17 (16)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 07-49-16 (12)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 37 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 10-58-19 (17)
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 08-12-15 (13)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 11-09-19 (18)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 32 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- Ajouts tracet : traitement du fichier D:\Programmation\Ressources\DonneesRAW\LGV-RR\2011-08-02 11-12-48 (19)
+17/08/2014 11:31:08 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Acquisition de 30 sec. Inferieur au temps mini, pas de traitement
+17/08/2014 11:31:08 -- ******   Cloture du fichier    *********

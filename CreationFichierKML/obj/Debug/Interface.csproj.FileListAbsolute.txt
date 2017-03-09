@@ -1,0 +1,136 @@
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.exe.config
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\Interface.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.MainWindows.resources
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\obj\Debug\Interface.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\Metier.dll
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\Metier.pdb
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\settings1.Designer.cs
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\CreationFichierKML\bin\Debug\settings.settings
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\bin\Debug\settings.settings
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\bin\Debug\App.config
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\bin\Debug\settings1.Designer.cs
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.exe.config
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\bin\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\bin\Debug\Metier.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\bin\Debug\Metier.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\Interface.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.MainWindows.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.Resource.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\Interface.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\CreationFichierKML\CreationFichierKML\obj\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\Interface.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\CreationFichierKML.MainWindows.resources
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\CreationFichierKML.Properties.Resources.resources
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\CreationFichierKML.Resource.resources
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\Interface.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\settings.settings
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\App.config
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\settings1.Designer.cs
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\CreationFichierKML.exe.config
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\Metier.dll
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\Debug\Metier.pdb
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\obj\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\CreationFichierKML.exe.config
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\settings.settings
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\App.config
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\settings1.Designer.cs
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\Metier.dll
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\Metier.pdb
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\CreationFichierKML\bin\x86\Debug\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe.config
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\Interface.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\App.config
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\CreationFichierKML.MainWindows.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\CreationFichierKML.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\Interface.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\obj\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML-dotnet4 V2\CreationFichierKML\bin\Debug\KML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe.config
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.MainWindows.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\App.config
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\C#\CreationFichierKML V2\CreationFichierKML\bin\Debug\KML.pdb
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\App.config
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe.config
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.pdb
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\AboutBoxDemo.dll
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\KML.pdb
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.MainWindows.resources
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.Properties.Resources.resources
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.exe.manifest
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.application
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.exe
+D:\Mes docs\Programmation\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.pdb
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe.config
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csproj.ResolveComReference.cache
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.exe
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.pdb
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\App.config
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe.manifest
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.application
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.exe
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\CreationFichierKML.pdb
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\AboutBoxDemo.dll
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\AboutBoxDemo.pdb
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.MainWindows.resources
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.Properties.Resources.resources
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\Interface.csproj.GenerateResource.Cache
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.exe.manifest
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\obj\Debug\CreationFichierKML.application
+D:\Programmation\Projet\CSharp\CreationFichierKML V2\CreationFichierKML\bin\Debug\KML.pdb

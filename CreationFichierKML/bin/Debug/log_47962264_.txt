@@ -1,0 +1,15 @@
+17/05/2013 20:30:12 -- ******   Ajout des tracets    *********
+17/05/2013 20:30:12 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 06-56-00 (1)
+17/05/2013 20:30:12 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 10-13-08 (7)
+17/05/2013 20:30:13 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 07-25-10 (2)
+17/05/2013 20:30:14 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 10-42-58 (8)
+17/05/2013 20:30:14 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 07-46-22 (3)
+17/05/2013 20:30:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 11-04-51 (9)
+17/05/2013 20:30:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 11-14-12 (10)
+17/05/2013 20:30:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 11-18-52 (11)
+17/05/2013 20:30:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2013-01-18 14-51-15 (21)
+17/05/2013 20:30:15 -- Ajout d'un tracet  - L'erreur suivante s'est porduite : Impossible d'ouvrir le fichier V008_D11.raw!
+17/05/2013 20:30:15 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 08-16-12 (4)
+17/05/2013 20:30:17 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 08-45-05 (5)
+17/05/2013 20:30:19 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\C#\DonneesRAW\STC\2011-08-12 09-14-55 (6)
+17/05/2013 20:30:21 -- ******   Cloture du fichier    *********

@@ -1,0 +1,5 @@
+25/05/2013 12:50:26 -- ******   Ajout des tracets    *********
+25/05/2013 12:50:26 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\DonneesRAW\LGV-RR\2011-07-26 09-52-58 (4)
+25/05/2013 12:50:26 -- Ajouts tracet : traitement du fichier D:\Mes docs\Programmation\DonneesRAW\LGV-RR\2011-07-28 08-47-56 (13)
+25/05/2013 12:50:26 -- Ajouts tracet : l'erreur suivante s'est produiteUne ou plusieurs erreurs se sont produites.
+25/05/2013 12:50:26 -- ******   Cloture du fichier    *********

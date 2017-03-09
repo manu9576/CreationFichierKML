@@ -1,0 +1,6 @@
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\Metier\bin\x86\Debug\Metier.dll
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\Metier\bin\x86\Debug\Metier.pdb
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\Metier\obj\x86\Debug\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\Metier\obj\x86\Debug\KML-Metier.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\Metier\obj\x86\Debug\Metier.dll
+D:\Mes docs\Programmation\SharpDevelop Projects\CreationFichierKML-dotnet4\Metier\obj\x86\Debug\Metier.pdb

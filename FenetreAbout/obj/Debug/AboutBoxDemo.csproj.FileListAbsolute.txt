@@ -1,0 +1,9 @@
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\bin\Debug\AboutBoxDemo.exe
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\bin\Debug\AboutBoxDemo.pdb
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.AboutBox.resources
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.Form1.resources
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.Properties.Resources.resources
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.exe
+D:\Mes docs\Programmation\C#\FenetreAbout\AboutBoxDemo\obj\Debug\AboutBoxDemo.pdb

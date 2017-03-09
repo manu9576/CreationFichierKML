@@ -1,0 +1,17 @@
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\bin\Release\Metier.dll
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\bin\Release\Metier.pdb
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\obj\Release\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\obj\Release\Metier.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\obj\Release\Metier.dll
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\obj\Release\Metier.pdb
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\obj\Release\Metier.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\obj\Release\CreationFichierKML.LectureNomRaw.resources
+D:\Mes docs\Programmation\C#\DesignPattern\CreationFichierKML\Metier\obj\Release\Metier.csprojResolveAssemblyReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\bin\Release\Metier.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\bin\Release\Metier.pdb
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\Release\Interop.ImcCoreLib.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\Release\Metier.csproj.ResolveComReference.cache
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\Release\CreationFichierKML.LectureNomRaw.resources
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\Release\Metier.csproj.GenerateResource.Cache
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\Release\Metier.dll
+D:\Mes docs\Programmation\C#\CreationFichierKML\Metier\obj\Release\Metier.pdb
